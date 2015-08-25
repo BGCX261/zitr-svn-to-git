@@ -1,0 +1,17 @@
+#summary Features List for 0.1
+
+= Introduction =
+
+This pages describes the features which will be available in the first release of Zitr (0.1). It will only be a 'proof of concept', which will however contain the root for further development:
+- development process
+- documentation process
+- packaging/delivery process
+- User Interface description
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
